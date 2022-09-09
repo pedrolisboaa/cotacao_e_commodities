@@ -5,4 +5,6 @@ Aplicação WEB, que busca em API a cotação de algumas moedas e faz raspagem d
 
 Tem muito oque fazer ainda, mas gostei.
 
+Projeto esta publicado em https://primeirositepedrao.herokuapp.com/ (muitos erros ainda!)
+
 Pedro Lisboa
